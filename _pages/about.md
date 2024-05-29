@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student in Software Engineering at Shandong University starting from Fall 2023, supervised by Prof. Lu Wang(https://wanglusdu.github.io/) and Prof. Beibei Wang(https://wangningbei.github.io/).
+I am currently a graduate student in Software Engineering at Shandong University starting from Fall 2023, supervised by Prof. [Lu Wang](https://wanglusdu.github.io/) and Prof. [Beibei Wang](https://wangningbei.github.io/).
 
 My research interest is mainly in computer graphics, especially in real-time rendering and complicated materials.
 
@@ -28,7 +28,7 @@ My research interest is mainly in computer graphics, especially in real-time ren
 
 [Real-time Neural Woven Fabric Rendering]()
 
-**Xiang Chen**, Lu Wang*, Beibei Wang*
+**Xiang Chen**, Lu Wang\*, Beibei Wang\*
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
