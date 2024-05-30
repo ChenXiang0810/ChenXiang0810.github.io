@@ -26,11 +26,11 @@ My research interest is mainly in computer graphics, especially in real-time ren
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2024</div><img src='images/Teaser_Sofa_V7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time Neural Woven Fabric Rendering]()
+[Real-time Neural Woven Fabric Rendering](papers/Sig24_NeuralWovenFabric_Compressed.pdf)
 
 **Xiang Chen**, Lu Wang\*, Beibei Wang\*
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](neural_woven_fabric/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
