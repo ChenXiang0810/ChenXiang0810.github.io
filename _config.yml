@@ -30,7 +30,8 @@ author:
   googlescholar    : 
   email            : "xiang_chen@mail.sdu.edu.cn"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "resume/CV-Xiang_Chen.pdf"
+  uri              : 
+  CV               : "resume/CV-Xiang_Chen.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
