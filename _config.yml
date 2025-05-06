@@ -29,8 +29,8 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "xiang_chen@mail.sdu.edu.cn"
-  researchgate     : "docs/CV-Xiang Chen.pdf" # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              : "resume/CV-Xiang_Chen.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
