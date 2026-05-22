@@ -17,20 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student in Software Engineering at Shandong University starting from Fall 2023, supervised by Prof. [Lu Wang](https://wanglusdu.github.io/) and Prof. [Beibei Wang](https://wangningbei.github.io/).
+I am currently a graduate student in Software Engineering at Shandong University starting from Fall 2023, supervised by Prof. [Lu Wang](https://wanglusdu.github.io/), Prof. [Junqiu Zhu](https://junqiuzhu.github.io/) and Prof. [Beibei Wang](https://wangningbei.github.io/).
 
 My research interest is mainly in computer graphics, especially in real-time rendering and complicated materials.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 (ACM ToG)</div><img src='images/Teaser_Feather.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Procedural, Multiscale and Real-time Feather Appearance Model](procedural_feather/paper/Sig26_Feather_Compressed.pdf)
+
+**Xiang Chen\***, [Bin Chen\*](https://binchen.me/), Shouyi Wang, [Zahra Montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/), [Lu Wang](https://wanglusdu.github.io/), [Junqiu Zhu†](https://junqiuzhu.github.io/)
+
+[**Project (Coming soon)**](https://chenxiang0810.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='images/InstantSilhouetteSynBTF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Comprehensive Neural Materials: Dynamic Structure-Preserving Synthesis with Accurate Silhouette at Instant Inference Speed](https://chenxiang0810.github.io/)
+[Towards Comprehensive Neural Materials: Dynamic Structure-Preserving Synthesis with Accurate Silhouette at Instant Inference Speed](https://dl.acm.org/doi/10.1145/3721238.3730626)
 
 [Zilin Xu](https://starry316.github.io/), **Xiang Chen**, Chen Liu, [Beibei Wang](https://wangningbei.github.io/), [Lu Wang](https://wanglusdu.github.io/), [Zahra Montazeri](https://research.manchester.ac.uk/en/persons/zahra.montazeri), [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/)
 
-[**Project (Coming soon)**](https://chenxiang0810.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://starry316.github.io/sig2025/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -39,7 +50,7 @@ My research interest is mainly in computer graphics, especially in real-time ren
 
 [Real-time Neural Woven Fabric Rendering](neural_woven_fabric/paper/Sig24_NeuralWovenFabric_Compressed.pdf)
 
-**Xiang Chen**, [Lu Wang\*](https://wanglusdu.github.io/), [Beibei Wang\*](https://wangningbei.github.io/)
+**Xiang Chen**, [Lu Wang†](https://wanglusdu.github.io/), [Beibei Wang†](https://wangningbei.github.io/)
 
 [**Project**](neural_woven_fabric/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -50,7 +61,7 @@ My research interest is mainly in computer graphics, especially in real-time ren
 
 [Real-time All-frequency Global Illumination with Radiance Caching](https://xingyouxin.github.io/research/CVMJ23/RealtimeGI_files/paper_RealtimeGI.pdf)
 
-[Youxin Xing](https://xingyouxin.github.io/), Gaole Pan, **Xiang Chen**, Ji Wu, [Lu Wang\*](https://wanglusdu.github.io/), [Beibei Wang\*](https://wangningbei.github.io/)
+[Youxin Xing](https://xingyouxin.github.io/), Gaole Pan, **Xiang Chen**, Ji Wu, [Lu Wang†](https://wanglusdu.github.io/), [Beibei Wang†](https://wangningbei.github.io/)
 
 [**Project**](https://xingyouxin.github.io/research/CVMJ23/RealtimeGI.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
