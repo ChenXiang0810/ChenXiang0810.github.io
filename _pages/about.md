@@ -17,13 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student in Software Engineering at Shandong University starting from Fall 2023, supervised by Prof. [Lu Wang](https://wanglusdu.github.io/), Prof. [Junqiu Zhu](https://junqiuzhu.github.io/) and Prof. [Beibei Wang](https://wangningbei.github.io/).
+I am currently a PhD student at Nanjing University starting from Fall 2026, supervised by Prof. [Beibei Wang](https://wangningbei.github.io/) and Prof. [Jian Yang](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=t6AONNl4pZ5la8fwtaQrXw==&yxsh=z70ppxVSQAs=&zydm=eNM2K21sgHA=). Before this, I completed my Master's Degree at Shandong University, under the supervision of Prof. [Lu Wang](https://wanglusdu.github.io/) and Prof. [Junqiu Zhu](https://junqiuzhu.github.io/).
 
 My research interest is mainly in computer graphics, especially in real-time rendering and complicated materials.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 (ACM ToG)</div><img src='images/Teaser_Feather.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Teaser_GSTexture.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[3D Gaussian Texture for Real-time Mesoscale Appearance Synthesis and Rendering](gaussian_texture/paper/ECCV26_GaussianSyn.pdf)
+
+**Xiang Chen**, [Jia Li](https://riga2.github.io/), [Lu Wang†](https://wanglusdu.github.io/), [Beibei Wang†](https://wangningbei.github.io/)
+
+[**Project (Coming soon)**](https://chenxiang0810.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 (ACM TOG)</div><img src='images/Teaser_Feather.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Procedural, Multiscale and Real-time Feather Appearance Model](procedural_feather/paper/Sig26_Feather_Compressed.pdf)
