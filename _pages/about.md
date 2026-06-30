@@ -21,7 +21,7 @@ I am currently a PhD student at Nanjing University starting from Fall 2026, supe
 
 My research interest is mainly in computer graphics, especially in real-time rendering and complicated materials.
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Teaser_GSTexture.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +79,13 @@ My research interest is mainly in computer graphics, especially in real-time ren
 </div>
 
 
-# 📖 Educations
-- *2023.09 - now*, Shandong University, Software Engineering. 
+# Educations
+- *2026.09 - now*, Nanjing University, Computer Science and Technology. 
+- *2023.09 - 2026.06*, Shandong University, Software Engineering. 
 - *2019.09 - 2023.06*, Shandong University, Digital Media Technology.
 
+# Academic Activity
+- Reviewer:
+  - SIGGRAPH 2026
+  - CAD/CG 2026
+  - SIGGRAPH Asia 2025
